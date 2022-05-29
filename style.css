@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+    background-color:rgb(255, 255, 255);
+}
+
+
+.text-big{
+    border: 5px solid blue;
+    padding: 15px;
+    background: linear-gradient( wheat,blue,red );
+}
+
+.zombix{
+    background:linear-gradient( blue, rgb(245, 248, 86)) ;
+}
+
+.sb{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
